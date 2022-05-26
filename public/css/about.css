@@ -1,0 +1,16 @@
+.about-img{
+    width: 350px;
+    height: 300px;
+    float: left;
+    border-radius: 10px;
+    margin: 10px;
+    object-fit: cover;
+}
+.about-title{
+    font-family: 'Teko', sans-serif;
+    color: dimgray;
+    font-size: 25px;
+}
+.about-text{
+    font-family: 'Source Serif 4', sans-serif;
+}

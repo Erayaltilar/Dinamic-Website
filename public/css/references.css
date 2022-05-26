@@ -1,0 +1,39 @@
+.references{
+    width: 32%;
+    height: 300px;
+    background-color: white;
+    float: left;
+    margin: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px 2px  rgba(20,23,28,.15);
+}
+.ref-img{
+    width: 100%;
+    height: 180px;
+    border-bottom-left-radius: 5px;
+    border: top right radius 5px; ;
+    margin: 0px;
+    opacity: 0.6;
+    transition: opacity 0.9s;
+}
+.ref-img:hover{
+    opacity: 1;
+}
+
+.ref-header{
+    width: 100%;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 0px;
+    color: black;
+    text-align: center;
+    height: 45px;
+    line-height: 45px;
+    background-color: #f1f1f1;
+
+}
+
+.ref-detail{
+    text-align: center;
+    font-weight:bold;
+}
